@@ -1,9 +1,26 @@
 {
-    "workbench.colorCustomizations": {
-        "editor.background": "#0e0936",
-        "terminal.background": "#17054b",
-        "sideBar.background": "#17054b",
-        "tab.activeBackground": "#000000",
-        "tab.inactiveBackground": "#040c5a"
-    }
+  "editor.guides.bracketPairs": true,
+  "terminal.integrated.defaultProfile.linux": "bash",
+  "editor.formatOnSave": true,
+  "editor.wordWrap": "on",
+  "editor.tabSize": 2,
+  "tailwindCSS.includeLanguages": {
+    "javascript": "javascript",
+    "html": "HTML"
+  },
+  // Others
+  "codesnap.boxShadow": "none",
+  "codesnap.backgroundColor": "white",
+  "codesnap.containerPadding": "0",
+  "workbench.colorCustomizations": {
+    "sideBar.background": "#02173f",
+    "activityBar.foreground": "#ffffff",
+    "activityBar.background": "#090346",
+    "activityBar.activeBackground": "#000000",
+    // "terminal.background": "#080418",
+    "editor.background": "#07021d",
+    "tab.activeBackground": "#070101",
+    "tab.inactiveBackground": "#200e3d"
+  },
+  "codesnap.transparentBackground": true
 }
